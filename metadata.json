@@ -1,9 +1,9 @@
 {
-    "Identifier": "",
-    "Slug": "",
-    "Status": "",
-    "Title": "",
-    "Description": "",
+    "Identifier": "eos4jj5",
+    "Slug": "new-template-model-test",
+    "Status": "In progress",
+    "Title": "New Template Model Test",
+    "Description": "Given a SMILES string, the model counts the number of characters and other string metrics. This model is just for unit testing, it is not intended to be used in a real-world scenario. Ersilia codebase will heavily rely on this model repository to test various functionalities of the CLI such as fetching from GitHub, DockerHub and this repository will function as the model fixture for Ersilia's integration tests. This model will specifically adhere to the repository structure that only Ersilia Pack supports.",
     "Mode": "",
     "Task": [],
     "Input": [],
@@ -12,8 +12,8 @@
     "Output Type": [],
     "Output Shape": "",
     "Interpretation": "",
-    "Tag": [],
-    "Publication": "",
-    "Source Code": "",
-    "License": ""
+    "Tag": "Fingerprint",
+    "Publication": "https://ersilia.io",
+    "Source Code": "https://github.com/ersilia-os/ersilia",
+    "License": "GPL-3.0-only"
 }
